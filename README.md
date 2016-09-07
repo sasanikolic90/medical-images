@@ -1,2 +1,4 @@
-# medical-images
-Multi-modal alignment of medical images
+# Multi-modal alignment of medical images
+With the proper alignment of medical images we can observe geometrical relationship between objects that are present in the comparative figures. It can be used in modern medical applications to show various information about the anatomy of the given patient. By exploring the areas of medical images images alignment, we can greatly contribute to identifying and better understanding the disease states, planning surgical procedures and therapies to treat the observed medical situation. Careful examination of medical images may lead to better treatment effectiveness and overall progress in the health sector. Alignment is necessary due to the disparities between the obtained images, which are typically taken separately and independently, but containing the same body part. The reason for this may be due to different positions of the patient, pathological changes, changes produced by moving organs (i.e. heart), and various other body changes. In this article I am presenting the basic idea of medical image alignment and a proper solution for multi-modal images with an actual implementation of the method of interpolation.
+
+The article is in Slovene language.
